@@ -68,4 +68,4 @@ Leetcode 1770 - Maximum score from performing multiplication operations
 
 ## Bash
 
-195 - Tenth line
+Leetcode 195 - Tenth line
