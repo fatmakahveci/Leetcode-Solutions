@@ -68,4 +68,4 @@
 
 ## Bash
 
-- 195 - Tenth line
+195 - Tenth line
