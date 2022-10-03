@@ -52,11 +52,21 @@ Leetcode 135 - Candy
 
 Leetcode 154 - Find minimum in rotated sorted array II
 
+Leetcode 157 - Read N Characters Given Read4
+
 Leetcode 158 - Read N characters given read4 II call multiple times
 
 Leetcode 163 - Missing ranges
 
+Leetcode 170 - Two Sum III - Data structure design
+
+Leetcode 205 - Isomorphic Strings
+
+Leetcode 212 - Word Search II
+
 Leetcode 273 - Integer to English Words
+
+Leetcode 278 - First Bad Version
 
 Leetcode 297 - Serialize and Deserialize Binary Tree
 
@@ -66,9 +76,13 @@ Leetcode 315 - Count of Smaller Numbers After Self
 
 Leetcode 329 - Longest Increasing Path in a Matrix
 
+Leetcode 408 - Valid Word Abbreviation
+
 Leetcode 410 - Split Array Largest Sum
 
 Leetcode 414 - Third maximum number
+
+Leetcode 422 - Valid Word Square
 
 Leetcode 425 - Word Squares
 
@@ -77,6 +91,8 @@ Leetcode 489 - Robot Room Cleaner
 Leetcode 605 - Can place flowers
 
 Leetcode 642 - Design Search Autocomplete System
+
+Leetcode 680 - Valid Palindrome II
 
 Leetcode 716 - Max Stack
 
@@ -97,6 +113,8 @@ Leetcode 987 - Vertical Order Traversal of a Binary Tree
 Leetcode 1293 - Shortest Path in a Grid with Obstacles Elimination
 
 Leetcode 1335 - Minimum Difficulty of a Job Schedule
+
+Leetcode 1346 - Check If N and Its Double Exist
 
 Leetcode 1675 - Minimize Deviation in Array
 
