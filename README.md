@@ -86,6 +86,8 @@ Leetcode 422 - Valid Word Square
 
 Leetcode 425 - Word Squares
 
+Leetcode 482 - License Key Formatting
+
 Leetcode 489 - Robot Room Cleaner
 
 Leetcode 605 - Can place flowers
