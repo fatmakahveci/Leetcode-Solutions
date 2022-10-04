@@ -4,9 +4,25 @@
 
 Leetcode 1 - Two sum
 
+Leetcode 2 - Add two numbers
+
+Leetcode 3 - Longest Substring Without Repeating Characters
+
 Leetcode 4 - Median of two sorted arrays
 
+Leetcode 5 - Longest palindromic substring
+
+Leetcode 6 - Zigzag Conversion
+
+Leetcode 7 - Reverse Integer
+
+Leetcode 8 - String to Integer (atoi)
+
 Leetcode 9 - Palindrome number
+
+Leetcode 11 - Container With Most Water
+
+Leetcode 12 - Integer to Roman
 
 Leetcode 13 - Roman to integer
 
