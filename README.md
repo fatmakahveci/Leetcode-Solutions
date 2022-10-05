@@ -28,17 +28,39 @@ Leetcode 13 - Roman to integer
 
 Leetcode 14 - Longest common prefix
 
+Leetcode 15 - 3Sum
+
+Leetcode 16 - 3Sum Closest
+
+Leetcode 17 - Letter Combinations of a Phone Number
+
+Leetcode 19 - Remove Nth Node From End of List
+
 Leetcode 20 - Valid parentheses
 
 Leetcode 21 - Merge two sorted lists
 
+Leetcode 22 - Generate Parentheses
+
 Leetcode 23 - Merge k sorted lists
+
+Leetcode 24 - Swap Nodes in Pairs
 
 Leetcode 26 - Remove duplicates from sorted array
 
 Leetcode 27 - Remove element
 
+Leetcode 28 - Find the Index of the First Occurrence in a String
+
+Leetcode 31 - Next Permutation
+
+Leetcode 33 - Search in Rotated Sorted Array
+
+Leetcode 34 - Find First and Last Position of Element in Sorted Array
+
 Leetcode 35 - Search insert position
+
+Leetcode 36 - Valid Sudoku
 
 Leetcode 42 - Trapping rain water
 
