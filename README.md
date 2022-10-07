@@ -64,6 +64,22 @@ Leetcode 36 - Valid Sudoku
 
 Leetcode 42 - Trapping rain water
 
+Leetcode 43 - Multiply Strings
+
+Leetcode 48 - Rotate Image
+
+Leetcode 50 - Pow(x, n)
+
+Leetcode 53 - Maximum Subarray
+
+Leetcode 54 - Spiral Matrix
+
+Leetcode 55 - Jump Game
+
+Leetcode 56 - Merge Intervals
+
+Leetcode 57 - Insert Interval
+
 Leetcode 66 - Plus one
 
 Leetcode 69 - Sqrt x
