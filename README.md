@@ -80,6 +80,8 @@ Leetcode 56 - Merge Intervals
 
 Leetcode 57 - Insert Interval
 
+Leetcode 62 - Unique Paths
+
 Leetcode 66 - Plus one
 
 Leetcode 69 - Sqrt x
@@ -89,6 +91,12 @@ Leetcode 70 - Climbing stairs
 Leetcode 72 - Edit distance
 
 Leetcode 76 - Minimum window substring
+
+Leetcode 77 - Combinations
+
+Leetcode 78 - Subsets
+
+Leetcode 79 - Word Search
 
 Leetcode 88 - Merge sorted array
 
