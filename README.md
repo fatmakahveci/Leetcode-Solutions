@@ -100,11 +100,17 @@ Leetcode 79 - Word Search
 
 Leetcode 88 - Merge sorted array
 
+Leetcode 92 - Reverse Linked List II
+
 Leetcode 94 - Binary tree inorder traversal
+
+Leetcode 98 - Validate Binary Search Tree
 
 Leetcode 100 - Same tree
 
 Leetcode 101 - Symmetric tree
+
+Leetcode 102 - Binary Tree Level Order Traversal
 
 Leetcode 124 - Binary tree maximum path sum
 
@@ -112,15 +118,17 @@ Leetcode 127 - Word ladder
 
 Leetcode 135 - Candy
 
-Leetcode 154 - Find minimum in rotated sorted array II
+Leetcode 154 - Find Minimum in Rotated Sorted Array II
 
 Leetcode 157 - Read N Characters Given Read4
 
-Leetcode 158 - Read N characters given read4 II call multiple times
+Leetcode 158 - Read N Characters Given Read4 II Call Multiple Times
 
-Leetcode 163 - Missing ranges
+Leetcode 163 - Missing Ranges
 
-Leetcode 170 - Two Sum III - Data structure design
+Leetcode 170 - Two Sum III - Data Structure Design
+
+Leetcode 193 - Valid Phone Numbers
 
 Leetcode 205 - Isomorphic Strings
 
