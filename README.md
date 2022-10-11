@@ -120,6 +120,18 @@ Leetcode 106 - Construct Binary Tree from Inorder and Postorder Traversal
 
 Leetcode 108 - Convert Sorted Array to Binary Search Tree
 
+Leetcode 110 - Balanced Binary Tree
+
+Leetcode 111 - Minimum Depth of Binary Tree
+
+Leetcode 112 - Path Sum
+
+Leetcode 116 - Populating Next Right Pointers in Each Node
+
+Leetcode 118 - Pascal's Triangle
+
+Leetcode 119 - Pascal's Triangle II
+
 Leetcode 124 - Binary Tree Maximum Path Sum
 
 Leetcode 127 - Word Ladder
