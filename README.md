@@ -132,7 +132,13 @@ Leetcode 118 - Pascal's Triangle
 
 Leetcode 119 - Pascal's Triangle II
 
+Leetcode 121 - Best Time to Buy and Sell Stock
+
+Leetcode 122 - Best Time to Buy and Sell Stock II
+
 Leetcode 124 - Binary Tree Maximum Path Sum
+
+Leetcode 125 - Valid Palindrome
 
 Leetcode 127 - Word Ladder
 
