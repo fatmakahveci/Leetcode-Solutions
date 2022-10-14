@@ -142,7 +142,17 @@ Leetcode 125 - Valid Palindrome
 
 Leetcode 127 - Word Ladder
 
+Leetcode 130 - Surrounded Regions
+
+Leetcode 133 - Clone Graph
+
 Leetcode 135 - Candy
+
+Leetcode 136 - Single Number
+
+Leetcode 138 - Copy List with Random Pointer
+
+Leetcode 139 - Word Break
 
 Leetcode 154 - Find Minimum in Rotated Sorted Array II
 
