@@ -154,6 +154,18 @@ Leetcode 138 - Copy List with Random Pointer
 
 Leetcode 139 - Word Break
 
+Leetcode 141 - Linked List Cycle
+
+Leetcode 142 - Linked List Cycle II
+
+Leetcode 144 - Binary Tree Preorder Traversal
+
+Leetcode 145 - Binary Tree Postorder Traversal
+
+Leetcode 146 - LRU Cache
+
+Leetcode 147 - Insertion Sort List
+
 Leetcode 154 - Find Minimum in Rotated Sorted Array II
 
 Leetcode 157 - Read N Characters Given Read4
