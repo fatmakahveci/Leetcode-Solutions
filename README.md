@@ -166,11 +166,23 @@ Leetcode 146 - LRU Cache
 
 Leetcode 147 - Insertion Sort List
 
+Leetcode 150 - Evaluate Reverse Polish Notation
+
+Leetcode 152 - Maximum Product Subarray
+
+Leetcode 153 - Find Minimum in Rotated Sorted Array
+
 Leetcode 154 - Find Minimum in Rotated Sorted Array II
+
+Leetcode 155 - Min Stack
+
+Leetcode 156 - Binary Tree Upside Down
 
 Leetcode 157 - Read N Characters Given Read4
 
 Leetcode 158 - Read N Characters Given Read4 II Call Multiple Times
+
+Leetcode 159 - Longest Substring with At Most Two Distinct Characters
 
 Leetcode 163 - Missing Ranges
 
