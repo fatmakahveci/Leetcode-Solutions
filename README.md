@@ -186,6 +186,10 @@ Leetcode 158 - Read N Characters Given Read4 II Call Multiple Times
 
 Leetcode 159 - Longest Substring with At Most Two Distinct Characters
 
+Leetcode 160 - Intersection of Two Linked Lists
+
+Leetcode 162 - Find Peak Element
+
 Leetcode 163 - Missing Ranges
 
 Leetcode 170 - Two Sum III - Data Structure Design
