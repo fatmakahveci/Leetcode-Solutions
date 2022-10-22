@@ -192,6 +192,10 @@ Leetcode 162 - Find Peak Element
 
 Leetcode 163 - Missing Ranges
 
+Leetcode 167 - Two Sum II - Input Array Is Sorted
+
+Leetcode 169 - Majority Element
+
 Leetcode 170 - Two Sum III - Data Structure Design
 
 Leetcode 205 - Isomorphic Strings
