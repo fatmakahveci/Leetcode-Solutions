@@ -198,6 +198,14 @@ Leetcode 169 - Majority Element
 
 Leetcode 170 - Two Sum III - Data Structure Design
 
+Leetcode 171 - Excel Sheet Column Number
+
+Leetcode 173 - Binary Search Tree Iterator
+
+Leetcode 175 - Combine Two Tables
+
+Leetcode 189 - Rotate Array
+
 Leetcode 205 - Isomorphic Strings
 
 Leetcode 212 - Word Search II
