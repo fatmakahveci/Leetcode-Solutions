@@ -202,8 +202,6 @@ Leetcode 171 - Excel Sheet Column Number
 
 Leetcode 173 - Binary Search Tree Iterator
 
-Leetcode 175 - Combine Two Tables
-
 Leetcode 189 - Rotate Array
 
 Leetcode 205 - Isomorphic Strings
@@ -273,3 +271,7 @@ Leetcode 1770 - Maximum Score from Performing Multiplication Operations
 Leetcode 193 - Valid Phone Numbers
 
 Leetcode 195 - Tenth Line
+
+## SQL
+
+Leetcode 175 - Combine Two Tables
