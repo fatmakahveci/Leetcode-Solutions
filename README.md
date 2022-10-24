@@ -264,6 +264,8 @@ Leetcode 1346 - Check If N and Its Double Exist
 
 Leetcode 1675 - Minimize Deviation in Array
 
+Leetcode 1720 - Decode XORed Array
+
 Leetcode 1770 - Maximum Score from Performing Multiplication Operations
 
 ## Bash
@@ -275,3 +277,5 @@ Leetcode 195 - Tenth Line
 ## SQL
 
 Leetcode 175 - Combine Two Tables
+
+Leetcode 1757 - Recyclable and Low Fat Products
