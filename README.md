@@ -204,6 +204,14 @@ Leetcode 173 - Binary Search Tree Iterator
 
 Leetcode 189 - Rotate Array
 
+Leetcode 190 - Reverse Bits
+
+Leetcode 191 - Number of 1 Bits
+
+Leetcode 198 - House Robber
+
+Leetcode 199 - Binary Tree Right Side View
+
 Leetcode 205 - Isomorphic Strings
 
 Leetcode 212 - Word Search II
