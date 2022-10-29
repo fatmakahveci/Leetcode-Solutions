@@ -218,6 +218,12 @@ Leetcode 203 - Remove Linked List Elements
 
 Leetcode 205 - Isomorphic Strings
 
+Leetcode 206 - Reverse Linked List
+
+Leetcode 207 - Course Schedule
+
+Leetcode 208 - Implement Trie (Prefix Tree)
+
 Leetcode 212 - Word Search II
 
 Leetcode 273 - Integer to English Words
