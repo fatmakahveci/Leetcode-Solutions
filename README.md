@@ -224,6 +224,10 @@ Leetcode 207 - Course Schedule
 
 Leetcode 208 - Implement Trie (Prefix Tree)
 
+Leetcode 210 - Course Schedule II
+
+Leetcode 211 - Design Add and Search Words Data Structure
+
 Leetcode 212 - Word Search II
 
 Leetcode 273 - Integer to English Words
