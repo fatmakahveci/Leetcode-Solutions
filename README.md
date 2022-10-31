@@ -230,6 +230,10 @@ Leetcode 211 - Design Add and Search Words Data Structure
 
 Leetcode 212 - Word Search II
 
+Leetcode 215 - Kth Largest Element in an Array
+
+Leetcode 217 - Contains Duplicate
+
 Leetcode 273 - Integer to English Words
 
 Leetcode 278 - First Bad Version
