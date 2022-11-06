@@ -234,6 +234,14 @@ Leetcode 215 - Kth Largest Element in an Array
 
 Leetcode 217 - Contains Duplicate
 
+Leetcode 221 - Maximal Square
+
+Leetcode 222 - Count Complete Tree Nodes
+
+Leetcode 225 - Implement Stack using Queues
+
+Leetcode 226 - Invert Binary Tree
+
 Leetcode 273 - Integer to English Words
 
 Leetcode 278 - First Bad Version
