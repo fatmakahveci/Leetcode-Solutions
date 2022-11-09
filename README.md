@@ -234,7 +234,7 @@
 
 [Leetcode 211 - Design Add and Search Words Data Structure](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/211_design_add_and_search_words_data_structure.py)
 
-Leetcode 212 - Word Search II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/212_word_search_II.py)
+[Leetcode 212 - Word Search II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/212_word_search_II.py)
 
 [Leetcode 215 - Kth Largest Element in an Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/215_kth_largest_element_in_an_array.py)
 
