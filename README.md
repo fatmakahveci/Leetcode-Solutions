@@ -284,7 +284,7 @@
 
 [Leetcode 642 - Design Search Autocomplete System](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/642_design_search_autocomplete_system.py)
 
-[Leetcode 680 - Valid Palindrome II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/680. Valid Palindrome II)
+[Leetcode 680 - Valid Palindrome II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/680_valid_palindrome_II.py)
 
 [Leetcode 716 - Max Stack](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/716_max_stack.py)
 
