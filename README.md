@@ -258,6 +258,14 @@
 
 [Leetcode 278 - First Bad Version](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/278_first_bad_version.py)
 
+[Leetcode 283 - Move Zeroes](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/283_move_zeroes.py)
+
+[Leetcode 285 - Inorder Successor in BST](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/285_inorder_successor_in_BST.py)
+
+[Leetcode 286 - Walls and Gates](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/286_walls_and_gates.py)
+
+[Leetcode 287 - Find the Duplicate Number](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/287_find_the_duplicate_number.py)
+
 [Leetcode 297 - Serialize and Deserialize Binary Tree](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/297_serialize_and_deserialize_binary_tree.py)
 
 [Leetcode 308 - Range Sum Query 2D - Mutable](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/308_range_sum_query_2D_-_mutable.py)
