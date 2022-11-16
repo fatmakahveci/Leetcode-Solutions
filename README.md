@@ -331,6 +331,7 @@
 ## SQL
 
 [Leetcode 175 - Combine Two Tables](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/175_combine_two_tables.sql)
-[Leetcode 1741 - Find Total Time Spent by Each Employee](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1741_find_total_time_spent_by_each_employee.sql)
-[Leetcode 1757 - Recyclable and Low Fat Products](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1757_recyclable_and_low_fat_products.sql)
 
+[Leetcode 1741 - Find Total Time Spent by Each Employee](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1741_find_total_time_spent_by_each_employee.sql)
+
+[Leetcode 1757 - Recyclable and Low Fat Products](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1757_recyclable_and_low_fat_products.sql)
