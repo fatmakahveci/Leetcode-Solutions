@@ -322,6 +322,8 @@
 
 [Leetcode 1770 - Maximum Score from Performing Multiplication Operations](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1770_maximum_score_from_performing_multiplication_operations.py)
 
+[Leetcode 2469 - Convert the Temperature](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2469_convert_the_temperature.py)
+
 ## Bash
 
 [Leetcode 193 - Valid Phone Numbers](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/bash/193_valid_phone_numbers.sh)
