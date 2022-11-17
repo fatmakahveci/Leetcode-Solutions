@@ -334,6 +334,8 @@
 
 [Leetcode 175 - Combine Two Tables](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/175_combine_two_tables.sql)
 
+[Leetcode 1683 - Invalid Tweets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1683_invalid_tweets.sql)
+
 [Leetcode 1378 - Replace Employee ID With The Unique Identifier](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1378_replace_employee_ID_with_the_unique_identifier.sql)
 
 [Leetcode 1741 - Find Total Time Spent by Each Employee](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1741_find_total_time_spent_by_each_employee.sql)
