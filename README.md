@@ -318,6 +318,8 @@
 
 [Leetcode 1675 - Minimize Deviation in Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1675_minimize_deviation_in_array.py)
 
+[Leetcode 1678 - Goal Parser Interpretation](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1678_goal_parser_interpretation.py)
+
 [Leetcode 1720 - Decode XORed Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1720_decode_XORed_array.py)
 
 [Leetcode 1770 - Maximum Score from Performing Multiplication Operations](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1770_maximum_score_from_performing_multiplication_operations.py)
