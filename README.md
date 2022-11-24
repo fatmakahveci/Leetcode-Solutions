@@ -346,6 +346,8 @@
 
 [Leetcode 1571 - Warehouse Manager](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1571_warehouse_manager.sql)
 
+[Leetcode 1581 - Customer Who Visited but Did Not Make Any Transactions](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1581_customer_who_visited_but_did_not_make_any_transactions.sql)
+
 [Leetcode 1587. Bank Account Summary II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1587_bank_account_summary_II.sql)
 
 [Leetcode 1683 - Invalid Tweets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1683_invalid_tweets.sql)
