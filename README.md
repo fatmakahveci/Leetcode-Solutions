@@ -340,6 +340,8 @@
 
 [Leetcode 1303 - Find the Team Size](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1303_find_the_team_size.sql)
 
+[Leetcode 1350 - Students With Invalid Departments](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1350_students_with_invalid_departments.sql)
+
 [Leetcode 1378 - Replace Employee ID With The Unique Identifier](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1378_replace_employee_ID_with_the_unique_identifier.sql)
 
 [Leetcode 1683 - Invalid Tweets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1683_invalid_tweets.sql)
