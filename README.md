@@ -330,6 +330,8 @@
 
 ## Bash
 
+[Leetcode 192 - Word Frequency](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/bash/192_word_frequency.sh)
+
 [Leetcode 193 - Valid Phone Numbers](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/bash/193_valid_phone_numbers.sh)
 
 [Leetcode 195 - Tenth Line](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/bash/195_tenth_line.sh)
