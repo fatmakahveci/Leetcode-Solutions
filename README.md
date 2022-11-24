@@ -344,6 +344,8 @@
 
 [Leetcode 1378 - Replace Employee ID With The Unique Identifier](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1378_replace_employee_ID_with_the_unique_identifier.sql)
 
+[Leetcode 1571 - Warehouse Manager](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1571_warehouse_manager.sql)
+
 [Leetcode 1683 - Invalid Tweets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1683_invalid_tweets.sql)
 
 [Leetcode 1693 - Daily Leads and Partners](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1693_daily_leads_and_partners.sql)
