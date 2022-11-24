@@ -346,6 +346,8 @@
 
 [Leetcode 1571 - Warehouse Manager](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1571_warehouse_manager.sql)
 
+[Leetcode 1587. Bank Account Summary II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1587_bank_account_summary_II.sql)
+
 [Leetcode 1683 - Invalid Tweets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1683_invalid_tweets.sql)
 
 [Leetcode 1693 - Daily Leads and Partners](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1693_daily_leads_and_partners.sql)
