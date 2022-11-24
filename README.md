@@ -356,4 +356,6 @@
 
 [Leetcode 1795 - Rearrange Products Table](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1795_rearrange_products_table.sql)
 
+[Leetcode 1821 - Find Customers With Positive Revenue this Year](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1821_find_customers_with_positive_revenue_this_year.sql)
+
 [Leetcode 2356 - Number of Unique Subjects Taught by Each Teacher](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/2356_number_of_unique_subjects_taught_by_each_teacher.sql)
