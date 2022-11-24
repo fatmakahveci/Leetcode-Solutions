@@ -346,6 +346,8 @@
 
 [Leetcode 1683 - Invalid Tweets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1683_invalid_tweets.sql)
 
+[Leetcode 1693 - Daily Leads and Partners](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1693_daily_leads_and_partners.sql)
+
 [Leetcode 1741 - Find Total Time Spent by Each Employee](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1741_find_total_time_spent_by_each_employee.sql)
 
 [Leetcode 1757 - Recyclable and Low Fat Products](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1757_recyclable_and_low_fat_products.sql)
