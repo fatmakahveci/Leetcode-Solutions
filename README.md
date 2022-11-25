@@ -326,6 +326,8 @@
 
 [Leetcode 1770 - Maximum Score from Performing Multiplication Operations](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1770_maximum_score_from_performing_multiplication_operations.py)
 
+[Leetcode 2325 - Decode the Message](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2325_decode_the_message.py)
+
 [Leetcode 2413 - Smallest Even Multiple](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2413_smallest_even_multiple.py)
 
 [Leetcode 2469 - Convert the Temperature](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2469_convert_the_temperature.py)
