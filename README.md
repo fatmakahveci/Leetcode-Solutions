@@ -328,6 +328,8 @@
 
 [Leetcode 1773 - Count Items Matching a Rule](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1773_count_items_matching_a_rule.py)
 
+[Leetcode 1832 - Check if the Sentence Is Pangram](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1832_check_if_the_sentence_is_pangram.py)
+
 [Leetcode 1859_- Sorting_the_Sentence](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1859_sorting_the_sentence.py)
 
 [Leetcode 2325 - Decode the Message](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2325_decode_the_message.py)
