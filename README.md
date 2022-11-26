@@ -332,6 +332,8 @@
 
 [Leetcode 2325 - Decode the Message](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2325_decode_the_message.py)
 
+[Leetcode 2373 - Largest Local Values in a Matrix](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2373_largest_local_values_in_a_matrix.py)
+
 [Leetcode 2413 - Smallest Even Multiple](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2413_smallest_even_multiple.py)
 
 [Leetcode 2469 - Convert the Temperature](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2469_convert_the_temperature.py)
