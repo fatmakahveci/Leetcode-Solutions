@@ -310,6 +310,8 @@
 
 [Leetcode 987 - Vertical Order Traversal of a Binary Tree](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/987_vertical_order_traversal_of_a_binary_tree.py)
 
+[Leetcode 1265 - Print Immutable Linked List in Reverse](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1265_print_immutable_linked_list_in_reverse.py)
+
 [Leetcode 1293 - Shortest Path in a Grid with Obstacles Elimination](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1293_shortest_path_in_a_grid_with_obstacles_elimination.py)
 
 [Leetcode 1335 - Minimum Difficulty of a Job Schedule](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1335_minimum_difficulty_of_a_job_schedule.py)
