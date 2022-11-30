@@ -282,6 +282,8 @@
 
 [Leetcode 326 - Power of Three](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/326_power_of_three.py)
 
+[Leetcode 328 - Odd Even Linked List](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/328_odd_even_linked_list.py)
+
 [Leetcode 329 - Longest Increasing Path in a Matrix](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/329_longest_increasing_path_in_a_matrix.py)
 
 [Leetcode 380 - Insert Delete GetRandom O(1)](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/380_insert_delete_get_random_O(1).py)
