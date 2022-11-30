@@ -278,6 +278,8 @@
 
 [Leetcode 322 - Coin Change](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/322_coin_change.py)
 
+[Leetcode 323 - Number of Connected Components in an Undirected Graph](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/323_number_of_connected_components_in_an_undirected_graph.py)
+
 [Leetcode 329 - Longest Increasing Path in a Matrix](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/329_longest_increasing_path_in_a_matrix.py)
 
 [Leetcode 380 - Insert Delete GetRandom O(1)](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/380_insert_delete_get_random_O(1).py)
