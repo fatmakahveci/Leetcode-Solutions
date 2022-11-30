@@ -286,6 +286,8 @@
 
 [Leetcode 329 - Longest Increasing Path in a Matrix](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/329_longest_increasing_path_in_a_matrix.py)
 
+[Leetcode 338 - Counting Bits](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/338_counting_bits.py)
+
 [Leetcode 380 - Insert Delete GetRandom O(1)](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/380_insert_delete_get_random_O(1).py)
 
 [Leetcode 408 - Valid Word Abbreviation](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/408_valid_word_abbreviation.py)
