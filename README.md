@@ -290,6 +290,8 @@
 
 [Leetcode 344 - Reverse String](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/344_reverse_string.py)
 
+[Leetcode 346 - Moving Average from Data Stream](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/346_moving_average_from_data_stream.py)
+
 [Leetcode 380 - Insert Delete GetRandom O(1)](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/380_insert_delete_get_random_O(1).py)
 
 [Leetcode 408 - Valid Word Abbreviation](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/408_valid_word_abbreviation.py)
