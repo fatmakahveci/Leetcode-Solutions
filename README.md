@@ -274,6 +274,8 @@
 
 [Leetcode 315 - Count of Smaller Numbers After Self](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/315_count_of_smaller_numbers_after_self.py)
 
+[Leetcode 319 - Bulb Switcher](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/319_bulb_switcher.py)
+
 [Leetcode 329 - Longest Increasing Path in a Matrix](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/329_longest_increasing_path_in_a_matrix.py)
 
 [Leetcode 380 - Insert Delete GetRandom O(1)](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/380_insert_delete_get_random_O(1).py)
