@@ -5,15 +5,36 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        q = deque([(root, 0)])
-        level_dict = defaultdict(list)
+        '''
+        BFS: level order traversal
+        '''
+        
+        from collections import defaultdict, deque
+
+        if not root:
+            return []
+        
+        vertical_nodes = defaultdict(list)
+        
+        min_x, max_x = float('inf'), float('-inf')
+        
+        q = deque([(0, root)])
+        visited = []
+        
         while q:
-            node, level = q.popleft()
-            if node:
-                level_dict[level].append(node.val)
-                if node.left:
-                    q.append((node.left, level+1))
-                if node.right:
-                    q.append((node.right, level-1))
-        return [ level_dict[k] for k in sorted(level_dict.keys(), reverse=True) ]
+            x, node = q.popleft()
+            vertical_nodes[x].append(node.val)
+            
+            min_x, max_x = min(min_x, x), max(max_x, x)
+
+            if node.left:
+                q.append((x-1, node.left))
+            if node.right:
+                q.append((x+1, node.right))
+        
+        for level in range(min_x, max_x+1):
+            visited.append(vertical_nodes[level])
+
+        return visited
