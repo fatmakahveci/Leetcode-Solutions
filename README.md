@@ -288,6 +288,8 @@
 
 [Leetcode 489 - Robot Room Cleaner](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/489_robot_room_cleaner.py)
 
+[Leetcode 588 - Design In-Memory File System](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/588_design_in-memory_file_system.py)
+
 [Leetcode 605 - Can Place Flowers](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/605_can_place_flowers.py)
 
 [Leetcode 642 - Design Search Autocomplete System](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/642_design_search_autocomplete_system.py)
