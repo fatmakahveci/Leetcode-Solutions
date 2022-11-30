@@ -270,6 +270,8 @@
 
 [Leetcode 308 - Range Sum Query 2D - Mutable](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/308_range_sum_query_2D_-_mutable.py)
 
+[Leetcode 314 - Binary Tree Vertical Order Traversal](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/314_binary_tree_vertical_order_traversal.py)
+
 [Leetcode 315 - Count of Smaller Numbers After Self](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/315_count_of_smaller_numbers_after_self.py)
 
 [Leetcode 329 - Longest Increasing Path in a Matrix](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/329_longest_increasing_path_in_a_matrix.py)
