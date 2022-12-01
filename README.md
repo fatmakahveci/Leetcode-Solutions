@@ -338,6 +338,8 @@
 
 [Leetcode 857. Minimum Cost to Hire K Workers](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/857_minimum_cost_to_hire_k_workers.py)
 
+[Leetcode 912. Sort an Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/912_sort_an_array.py)
+
 [Leetcode 941. Valid Mountain Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/941_valid_mountain_array.py)
 
 [Leetcode 975. Odd Even Jump](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/975_odd_even_jump.py)
