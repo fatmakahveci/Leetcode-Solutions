@@ -352,6 +352,8 @@
 
 [Leetcode 1335 - Minimum Difficulty of a Job Schedule](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1335_minimum_difficulty_of_a_job_schedule.py)
 
+[Leetcode 1342 - Number of Steps to Reduce a Number to Zero](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1342_number_of_steps_to_reduce_a_number_to_zero.py)
+
 [Leetcode 1346 - Check If N and Its Double Exist](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1346_check_if_N_and_its_double_exist.py)
 
 [Leetcode 1656 - Design an Ordered Stream](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1656_design_an_ordered_stream.py)
