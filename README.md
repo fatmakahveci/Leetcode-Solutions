@@ -388,6 +388,8 @@
 
 [Leetcode 2006. Count Number of Pairs With Absolute Difference K](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2006_count_number_of_pairs_with_absolute_difference_k.py)
 
+[Leetcode 2037. Minimum Number of Moves to Seat Everyone](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2037_minimum_number_of_moves_to_seat_everyone.py)
+
 [Leetcode 2325. Decode the Message](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2325_decode_the_message.py)
 
 [Leetcode 2367. Number of Arithmetic Triplets](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2367_number_of_arithmetic_triplets.py)
