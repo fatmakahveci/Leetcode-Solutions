@@ -324,6 +324,8 @@
 
 [Leetcode 617. Merge Two Binary Trees](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/617_merge_two_binary_trees.py)
 
+[Leetcode 637. Average of Levels in Binary Tree](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/637_average_of_levels_in_binary_tree.py)
+
 [Leetcode 642. Design Search Autocomplete System](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/642_design_search_autocomplete_system.py)
 
 [Leetcode 653. Two Sum IV. Input is a BST](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/653_two_sum_IV_input_is_a_BST.py)
