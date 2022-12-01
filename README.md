@@ -294,6 +294,12 @@
 
 [Leetcode 347 - Top K Frequent Elements](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/347_top_k_frequent_elements.py)
 
+[Leetcode 349 - Intersection of Two Arrays](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/349_intersection_of_two_arrays.py)
+
+[Leetcode 350 - Intersection of Two Arrays II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/350_intersection_of_two_arrays_II.py)
+
+[Leetcode 351 - Android Unlock Patterns](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/351_android_unlock_patterns.py)
+
 [Leetcode 380 - Insert Delete GetRandom O(1)](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/380_insert_delete_get_random_O(1).py)
 
 [Leetcode 408 - Valid Word Abbreviation](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/408_valid_word_abbreviation.py)
