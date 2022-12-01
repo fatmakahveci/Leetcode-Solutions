@@ -206,6 +206,8 @@
 
 [Leetcode 171 - Excel Sheet Column Number](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/171_excel_sheet_column_number.py)
 
+[Leetcode 172 - Factorial Trailing Zeroes](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/172_factorial_trailing_zeroes.py)
+
 [Leetcode 173 - Binary Search Tree Iterator](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/173_binary_search_tree_iterator.py)
 
 [Leetcode 189 - Rotate Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/189_rotate_array.py)
