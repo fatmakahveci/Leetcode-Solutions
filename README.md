@@ -364,6 +364,8 @@
 
 [Leetcode 1656. Design an Ordered Stream](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1656_design_an_ordered_stream.py)
 
+[Leetcode 1662. Check If Two String Arrays are Equivalent](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1662_check_if_two_string_arrays_are_equivalent.py)
+
 [Leetcode 1675. Minimize Deviation in Array](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1675_minimize_deviation_in_array.py)
 
 [Leetcode 1678. Goal Parser Interpretation](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1678_goal_parser_interpretation.py)
