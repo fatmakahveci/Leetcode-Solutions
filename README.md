@@ -5,6 +5,8 @@
 
 # Leetcode Solutions
 
+- You can check my DSA notes in [my blog](https://fatmakahveci.com/coding/).
+
 ## Python
 
 [Leetcode 1. Two Sum](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/1_two_sum.py)
