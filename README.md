@@ -326,11 +326,17 @@
 
 [Leetcode 617. Merge Two Binary Trees](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/617_merge_two_binary_trees.py)
 
+[Leetcode 622. Design Circular Queue](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/622_design_circular_queue.py)
+
+[Leetcode 628. Maximum Product of Three Numbers](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/628_maximum_product_of%20_three_numbers.py)
+
 [Leetcode 637. Average of Levels in Binary Tree](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/637_average_of_levels_in_binary_tree.py)
 
 [Leetcode 642. Design Search Autocomplete System](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/642_design_search_autocomplete_system.py)
 
 [Leetcode 653. Two Sum IV. Input is a BST](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/653_two_sum_IV_input_is_a_BST.py)
+
+[Leetcode 658. Find K Closest Elements](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/658_find_k_closest_elements.py)
 
 [Leetcode 680. Valid Palindrome II](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/680_valid_palindrome_II.py)
 
