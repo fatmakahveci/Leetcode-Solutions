@@ -5,7 +5,7 @@
 
 # Leetcode Solutions
 
-- You can check my DSA notes in [my blog](https://fatmakahveci.com/coding/).
+- You can check my DSA notes in [my blog](https://fatmakahveci.com/coding-note/page/2/).
 - You can check my python notes in [my blog](https://fatmakahveci.com/python-note/).
 
 ## Python
