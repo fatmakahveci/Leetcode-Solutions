@@ -415,6 +415,8 @@
 
 [Leetcode 2469. Convert the Temperature](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2469_convert_the_temperature.py)
 
+[Leetcode 2769. Find the Maximum Achievable Number](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/python/2769_find_the_maximum_achievable_number.py)
+
 ## Bash
 
 [Leetcode 192. Word Frequency](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/bash/192_word_frequency.sh)
@@ -458,3 +460,9 @@
 [Leetcode 1821. Find Customers With Positive Revenue this Year](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/1821_find_customers_with_positive_revenue_this_year.sql)
 
 [Leetcode 2356. Number of Unique Subjects Taught by Each Teacher](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/sql/2356_number_of_unique_subjects_taught_by_each_teacher.sql)
+
+## TypeScript
+
+[Leetcode 2695. Array Wrapper](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/TypeScript/2695_array_wrapper.ts)
+
+## JavaScript
