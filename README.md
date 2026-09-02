@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Last commit](https://img.shields.io/github/last-commit/fatmakahveci/Leetcode-Solutions?style=for-the-badge)](https://github.com/fatmakahveci/Leetcode-Solutions/commits/main)
 
 # Leetcode Solutions
 
