@@ -467,3 +467,10 @@
 [Leetcode 2695. Array Wrapper](https://github.com/fatmakahveci/Leetcode-Solutions/blob/main/TypeScript/2695_array_wrapper.ts)
 
 ## JavaScript
+
+## Project Resources
+
+- [Changelog](CHANGELOG.md)
+- [Contributing guide](.github/CONTRIBUTING.md)
+- [Security policy](.github/SECURITY.md)
+- [License](LICENSE.md)
